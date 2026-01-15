@@ -353,8 +353,8 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 336)" class="msg-6">
-    <rect width="700" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">www.linkedin.com/in/mostafa-abdelhamed-88a447286</a> or email</text>
+    <rect width="390" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Please reach out via LinkedIn or my email</text>
   </g>
 </svg>
 
