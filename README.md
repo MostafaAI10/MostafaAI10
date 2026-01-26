@@ -15,7 +15,6 @@
 [![Mostafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MostafaAI10&theme=react-dark)](https://github.com/MostafaAI10)
 
 <br/>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MostafaAI10&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MostafaAI10&theme=neon&hide_border=false)<br/>
