@@ -4,7 +4,6 @@
 🚀 About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate about Artificial Intelligence, Machine Learning, and Research.<br>Currently pursuing my degree in Artificial Intelligence and Data Science at Elsewedy University of Technology, I combine academic knowledge with hands-on project experience in machine learning, NLP, and computer vision.<br>With a strong foundation in Mathematics, Computer Science, and Emerging Technologies, I enjoy exploring the intersection of AI, Cyber Security, and Cloud Computing to build intelligent, data-powered solutions. <br><br>🔭 Currently working on: AI + RAG systems, Computer Vision models, and NLP-driven applications.<br>🌱 Currently learning: MLOps, Deep Learning optimization, and Edge AI deployment.<br>💼 Open to: Research, AI development, and cross-disciplinary collaborations.<br>🧩 Technical interests: Machine Learning • Computer Vision • NLP • Data Engineering.<br>📫 Reach me at: abdelhamedmostafa190@gmail.com
 
 # Achievements:
-![Microsoft Learn Badge](https://learn.microsoft.com/api/achievements/share/en-us/MostafaAbdelhamedMahmoud-1666/XE5XEAUY?sharingId=9ADF504F7D530382)
 
 
 ## 🌐 Socials:
