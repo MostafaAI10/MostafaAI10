@@ -25,7 +25,7 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
+      <br>Scikit-L
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
@@ -97,7 +97,7 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
-      <br>Google Cloud
+      <br>Cloud
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
@@ -126,7 +126,7 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain" />
+      <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
