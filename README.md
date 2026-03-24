@@ -5,7 +5,46 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostaf2bdelhamid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mostafa-abdelhamed-88a447286) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdelhamedmostafa190) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelhamedmostafa190@gmail.com) 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://instagram.com/mostaf2bdelhamid">
+        <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+      </a>
+      <br>Instagram
+    </td>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/mostafa-abdelhamed-88a447286">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="96">
+      <a href="https://medium.com/@abdelhamedmostafa190">
+        <img src="https://images.icon-icons.com/3042/PNG/512/medium_logo_icon_189268.png" width="48" height="48" />
+      </a>
+      <br>Medium
+    </td>
+    <td align="center" width="96">
+      <a href="mailto:abdelhamedmostafa190@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+      </a>
+      <br>Email
+    </td>
+    <td align="center" width="96">
+      <a href="https://huggingface.co/Mostafa190">
+        <img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" width="48" height="48" alt="Hugging Face" />
+      </a>
+      <br>Hugging
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.kaggle.com/mostafa120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="48" height="48" alt="Kaggle" />
+      </a>
+      <br>Kaggle
+    </td>
+  </tr>
+</table> 
 
 ## Favorite tools and technologies:
 
