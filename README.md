@@ -5,11 +5,11 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
 
 ---
 
-- 🔭 **Working on:** AI + RAG systems, Computer Vision models, and NLP-driven applications
-- 🌱 **Learning:** MLOps, Deep Learning optimization, and Edge AI deployment
+- 🔭 **Working on:** AI + RAG systems, Computer Vision models, and NLP-driven applications.
+- 🌱 **Learning:** MLOps, Deep Learning optimization, and Edge AI deployment.
 - 🧩 **Interests:** Machine Learning • Computer Vision • NLP • xAI • Data Engineering.
-- 💼 **Open to:** Research roles, AI development, and cross-disciplinary collaborations
-- 📫 **Reach me at:** abdelhamedmostafa190@gmail.com
+- 💼 **Open to:** Research roles, AI development, and cross-disciplinary collaborations.
+- 📫 **Reach me at:** abdelhamedmostafa190@gmail.com .
 
 
 ## Socials:
