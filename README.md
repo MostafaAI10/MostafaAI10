@@ -8,7 +8,7 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://instagram.com/mostaf2bdelhamid">
+      <a href="https://instagram.com/mostafa3bdelhamed">
         <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
       </a>
       <br>Instagram
