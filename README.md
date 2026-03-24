@@ -1,13 +1,13 @@
 ### Hi there 👋
 ![](https://raw.githubusercontent.com/MostafaAI10/MostafaAI10/refs/heads/main/chat.svg)
-# About:
+## About:
 About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate about Artificial Intelligence, Machine Learning, and Research.<br>Currently pursuing my degree in Artificial Intelligence and Data Science at Elsewedy University of Technology, I combine academic knowledge with hands-on project experience in machine learning, NLP, and computer vision.<br>With a strong foundation in Mathematics, Computer Science, and Emerging Technologies, I enjoy exploring the intersection of AI, Cyber Security, and Cloud Computing to build intelligent, data-powered solutions. <br><br>🔭 Currently working on: AI + RAG systems, Computer Vision models, and NLP-driven applications.<br>🌱 Currently learning: MLOps, Deep Learning optimization, and Edge AI deployment.<br>💼 Open to: Research, AI development, and cross-disciplinary collaborations.<br>🧩 Technical interests: Machine Learning • Computer Vision • NLP • Data Engineering.<br>📫 Reach me at: abdelhamedmostafa190@gmail.com
 
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostaf2bdelhamid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mostafa-abdelhamed-88a447286) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdelhamedmostafa190) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelhamedmostafa190@gmail.com) 
 
-<h3>My favorite tools and technologies</h3>
+## Favorite tools and technologies:
 
 <table>
   <tr>
@@ -140,12 +140,12 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
 
 [![Mostafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MostafaAI10&theme=react-dark)](https://github.com/MostafaAI10)
 
-# GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MostafaAI10&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MostafaAI10&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAI10&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Quote
+## Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
