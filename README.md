@@ -74,7 +74,7 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter" />
       <br>Jupyter
     </td>
     <td align="center" width="96">
@@ -120,17 +120,17 @@ About Me<br>I'm Mostafa Abdelhamed, an AI & Data Science Specialist passionate a
       <br>Kaggle
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Google Colab" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48" alt="Google Colab" />
       <br>Colab
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/LangChain-1C3C5A?style=for-the-badge&logo=chainlink&logoColor=white" height="48" alt="LangChain" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
   </tr>
