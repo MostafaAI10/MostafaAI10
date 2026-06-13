@@ -291,6 +291,6 @@
   <!-- Reach out -->
   <g transform="translate(10, 336)" class="msg-6">
     <rect width="390" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Please reach out via LinkedIn or my email</text>
+    <text x="15" y="27">Feel free to reach out via LinkedIn or email</text>
   </g>
 </svg>
