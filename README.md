@@ -54,7 +54,7 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
   </tr>
 </table> 
 
-## Favorite tools and technologies:
+## Tools and Technologies:
 
 <table>
   <tr>
