@@ -187,7 +187,7 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
 
 <table>
   <tr>
-    <td align="center" width="270">
+    <td align="center" width="230">
       <a href="https://www.credly.com/badges/e24ba2ba-cf43-435b-831b-7a8abfddcb55/public_url">
         <img src="https://images.credly.com/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" width="200" height="200" alt="SAP Generative AI Developer" />
       </a>
