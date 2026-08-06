@@ -203,14 +203,6 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
 
 [![Mostafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MostafaAI10&theme=react-dark)](https://github.com/MostafaAI10)
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MostafaAI10&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MostafaAI10&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAI10&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MostafaAI10&icon=0&color=0)](https://visitcount.itsvg.in)
 
