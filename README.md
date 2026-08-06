@@ -183,6 +183,22 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
   </tr>
 </table>
 
+## Accreditations:
+
+<table>
+  <tr>
+    <td align="center" width="270">
+      <a href="https://www.credly.com/badges/e24ba2ba-cf43-435b-831b-7a8abfddcb55/public_url">
+        <img src="https://images.credly.com/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" width="200" height="200" alt="SAP Generative AI Developer" />
+      </a>
+      <br>
+      <b>SAP Certified<br>Generative AI Developer</b>
+      <br>
+      <sub>Issued Aug 2026</sub>
+    </td>
+  </tr>
+</table>
+
 ## Activity Graph:
 
 [![Mostafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MostafaAI10&theme=react-dark)](https://github.com/MostafaAI10)
