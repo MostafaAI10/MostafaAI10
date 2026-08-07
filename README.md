@@ -185,6 +185,7 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
 
 ## Accreditations:
 
+## Accreditations:
 <table>
   <tr>
     <td align="center" width="230">
@@ -196,17 +197,12 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
       <br>
       <sub>Issued Aug 2026</sub>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td align="center" width="230">
       <a href="https://www.credly.com/badges/ea98489d-81ae-4b7c-ab46-f936c3e453d6/public_url">
-        <img src="https://images.credly.com/size/110x110/images/8f674f59-b964-4683-b957-bbc0266bd603/blob" width="200" height="200" alt="SAP Data Analyst Cloud" />
+        <img src="https://images.credly.com/images/8f674f59-b964-4683-b957-bbc0266bd603/blob" width="200" height="200" alt="SAP Data Analyst Cloud" />
       </a>
       <br>
-      <b>SAP Certified<br>Data Analyst-Cloud</b>
+      <b>SAP Certified<br>Data Analyst - Cloud</b>
       <br>
       <sub>Issued Aug 2026</sub>
     </td>
