@@ -189,10 +189,19 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
   <tr>
     <td align="center" width="230">
       <a href="https://www.credly.com/badges/e24ba2ba-cf43-435b-831b-7a8abfddcb55/public_url">
-        <img src="https://images.credly.com/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" width="200" height="200" alt="SAP Generative AI Developer" />
+        <img src="https://images.credly.com/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" width="120" height="120" alt="SAP Generative AI Developer" />
       </a>
       <br>
-      <b>SAP Certified<br>Generative AI Developer</b>
+      <b>SAP Generative AI Developer</b>
+      <br>
+      <sub>Issued Aug 2026</sub>
+    </td>
+    <td align="center" width="230">
+      <a href="https://www.credly.com/badges/ea98489d-81ae-4b7c-ab46-f936c3e453d6/public_url">
+        <img src="https://images.credly.com/size/110x110/images/8f674f59-b964-4683-b957-bbc0266bd603/blob" width="120" height="120" alt="SAP Data Analyst Cloud" />
+      </a>
+      <br>
+      <b>SAP Data Analyst Cloud</b>
       <br>
       <sub>Issued Aug 2026</sub>
     </td>
