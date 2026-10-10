@@ -209,9 +209,7 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
   </tr>
 </table>
 
-## Activity Graph:
-
-[![Mostafa's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MostafaAI10&theme=react-dark&v=1)](https://github.com/MostafaAI10)
+![Snake Animation](https://raw.githubusercontent.com/MostafaAI10/MostafaAI10/output/github-contribution-grid-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MostafaAI10&icon=0&color=0)](https://visitcount.itsvg.in)
