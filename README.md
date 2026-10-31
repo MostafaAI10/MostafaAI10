@@ -184,8 +184,6 @@ I'm **Mostafa Abdelhamed**, an AI & Data Science Specialist passionate about Art
 </table>
 
 ## Accreditations:
-
-## Accreditations:
 <table>
   <tr>
     <td align="center" width="230">
